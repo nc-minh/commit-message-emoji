@@ -19,6 +19,7 @@ git commit -m':tada: Begin a project'
 | Begin a project            | :tada: `:tada:`                                  |
 | Version tag                | :bookmark: `:bookmark:`                          |
 | Improve structure / format of the code    | :art: `:art:`                     |
+| Improve performance                       | :zap: `:zap:`                     |
 | New feature                | :sparkles: `:sparkles:`                          |
 | Fix a bug                    | :bug: `:bug:`                                    |
 | Add or update documentation              | :memo: `:memo:`                                |
