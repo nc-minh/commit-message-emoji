@@ -15,6 +15,8 @@ This is my commit message emoji structure, I have consulted on websites online a
 | Tests                      | :rotating_light: `:rotating_light:`              |
 | Work in progress.             | :construction: `:construction:`                       |
 | Remove code, files or folder          | :fire: `:fire:`                               |
+| Refactor code                         | :recycle: `:recycle:`                         |
+| Remove dead code                      | :coffin: `:coffin:`                           |
 | Fix security issues                   | :lock: `:lock:`                               |
 | Downgrade dependencies                | :arrow_down: `:arrow_down:`                   |
 | Upgrade dependencies                  | :arrow_up: `:arrow_up:`                       |
@@ -22,7 +24,6 @@ This is my commit message emoji structure, I have consulted on websites online a
 | Remove a dependency                   | :heavy_minus_sign: `:heavy_minus_sign:`       |
 | Add or update CI build system         | :construction_worker: `:construction_worker:` |
 | Add or update analytics or track code | :chart_with_upwards_trend: `:chart_with_upwards_trend:`   |
-| Refactor code                         | :recycle: `:recycle:`                         |
 | Add or update configuration files     | :wrench: `:wrench:`                           |
 | Fix typos                             | :pencil2: `:pencil2:`                         |
 | Write bad code that needs to be improved  | :poop: `:poop:`                           |
@@ -33,8 +34,20 @@ This is my commit message emoji structure, I have consulted on websites online a
 | Add or update license                     | :page_facing_up: `:page_facing_up:`       |
 | Introduce breaking changes                | :boom: `:boom:`                           |
 | Add or update assets                      | :bento: `:bento:`                         |
-
-
+| Add or update comments in source code     | :bulb: `:bulb:`                           |
+| Write code drunkenly                      | :beers: `:beers:`                         |
+| Add or update text and literals           | :speech_balloon: `:speech_balloon:`       |
+| Perform database related changes          | card_file_box: `card_file_box:`           |
+| Add or update logs                        | :loud_sound: `:loud_sound:`               |
+| Remove logs                               | :mute: `:mute:`                           |
+| Add or update contributor(s)              | :busts_in_silhouette: `:busts_in_silhouette:` |
+| Work on responsive design                 | :iphone: `:iphone:`                       |
+| Add or update a .gitignore file           | :see_no_evil: `:see_no_evil:`             |
+| Add or update image(s)                    | :camera_flash: `:camera_flash:`           |
+| Perform experiments                       | :alembic: `:alembic:`                     |
+| Improve SEO                               | :mag: `:mag:`                             |
+| Add or update animations and transitions  | :dizzy: `:dizzy:`                         |
+| Catch errors                              | :goal_net: `:goal_net:`                   |
 </div>
 
 
