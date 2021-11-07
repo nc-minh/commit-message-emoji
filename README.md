@@ -1,5 +1,7 @@
 # commit-message-emoji
 
+<div align="center">
+
 |   Commit type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | Initial commit             | :tada: `:tada:`                               |
@@ -46,3 +48,7 @@
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
+
+</div>
+
+
