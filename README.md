@@ -1,6 +1,6 @@
 # commit-message-emoji
 
-This is my commitment message emoticon structure, I have consulted on websites online and edited it to my liking, if you like you can give me a star.
+This is my commit message emoji structure, I have consulted on websites online and edited it to my liking, if you like you can give me a star.
 
 <div align="center">
 
