@@ -2,6 +2,14 @@
 
 This is my commit message emoji structure, I have consulted on websites online and edited it to my liking, if you like you can give me a star.
 
+# How to usage
+```
+git commit -m':tada: Begin a project'
+```
+```:tada: | is the emoji code```
+
+```Begin a project | is a commit```
+
 <div align="center">
 
 |   Commit type              | Emoji                                            |
