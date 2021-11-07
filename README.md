@@ -1,5 +1,7 @@
 # commit-message-emoji
 
+This is my commitment message emoticon structure, I have consulted on websites online and edited it to my liking, if you like you can give me a star.
+
 <div align="center">
 
 |   Commit type              | Emoji                                         |
@@ -47,7 +49,6 @@
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
-| Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 
 </div>
 
