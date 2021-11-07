@@ -9,12 +9,12 @@ This is my commit message emoji structure, I have consulted on websites online a
 | Begin a project            | :tada: `:tada:`                                  |
 | Version tag                | :bookmark: `:bookmark:`                          |
 | New feature                | :sparkles: `:sparkles:`                          |
-| Bugfix                     | :bug: `:bug:`                                    |
-| Documentation              | :books: `:books:`                                |
-| Documenting source code    | :bulb: `:bulb:`                                  |
+| Fix a bug                    | :bug: `:bug:`                                    |
+| Add or update documentation              | :memo: `:memo:`                                |
 | Performance                | :racehorse: `:racehorse:`                        |
 | Add or update the UI and style files.                   | :lipstick: `:lipstick:`                          |
 | Tests                      | :rotating_light: `:rotating_light:`              |
+| Work in progress.             | :construction: `:construction:`                       |
 
 </div>
 
