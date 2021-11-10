@@ -26,7 +26,7 @@ git commit -m':tada: Begin a project'
 | Add or update documentation              | :memo: `:memo:`                                |
 | Add or update the UI and style files.                   | :lipstick: `:lipstick:`                          |
 | Tests                      | :rotating_light: `:rotating_light:`              |
-| Work in progress.             | :construction: `:construction:`                       |
+| Work in progress                      | :construction: `:construction:`               |
 | Remove code, files or folder          | :fire: `:fire:`                               |
 | Refactor code                         | :recycle: `:recycle:`                         |
 | Remove dead code                      | :coffin: `:coffin:`                           |
