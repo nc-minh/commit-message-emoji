@@ -17,7 +17,7 @@ git commit -m':tada: Begin a project'
 |   Commit type              | Emoji                                            |
 |:---------------------------|:-------------------------------------------------|
 | Begin a project            | :tada: `:tada:`                                  |
-| Version tag                | :bookmark: `:bookmark:`                          |
+| Code fall in love          | :revolving_hearts: `:revolving_hearts:`          |
 | Improve structure / format of the code    | :art: `:art:`                     |
 | Improve performance                       | :zap: `:zap:`                     |
 | New feature                | :sparkles: `:sparkles:`                          |
