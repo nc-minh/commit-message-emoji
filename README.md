@@ -14,18 +14,18 @@ git commit -m':tada: Begin a project'
 
 <div align="center">
 
-|   Commit type              | Emoji                                            |
-|:---------------------------|:-------------------------------------------------|
-| Begin a project            | :tada: `:tada:`                                  |
-| Code fall in love          | :revolving_hearts: `:revolving_hearts:`          |
-| being chased by a DEADLINE | :sob: `:sob:`                                    |
-| Improve structure / format of the code    | :art: `:art:`                     |
-| Improve performance                       | :zap: `:zap:`                     |
-| New feature                | :sparkles: `:sparkles:`                          |
-| Fix a bug                    | :bug: `:bug:`                                    |
-| Add or update documentation              | :memo: `:memo:`                                |
-| Add or update the UI and style files.                   | :lipstick: `:lipstick:`                          |
-| Tests                      | :rotating_light: `:rotating_light:`              |
+|   Commit type              | Emoji                                                    |
+|:---------------------------|:---------------------------------------------------------|
+| Begin a project            | :tada: `:tada:`                                          |
+| Code fall in love          | :revolving_hearts: `:revolving_hearts:`                  |
+| being chased by a DEADLINE | :sob: `:sob:`                                            |
+| Improve structure / format of the code    | :art: `:art:`                             |
+| Improve performance                       | :zap: `:zap:`                             |
+| New feature                | :sparkles: `:sparkles:`                                  |
+| Fix a bug                    | :bug: `:bug:`                                          |
+| Add or update documentation              | :memo: `:memo:`                            |
+| Add or update the UI and style files.                   | :lipstick: `:lipstick:`     |
+| Tests                      | :rotating_light: `:rotating_light:`                      |
 | Work in progress                      | :construction: `:construction:`               |
 | Remove code, files or folder          | :fire: `:fire:`                               |
 | Refactor code                         | :recycle: `:recycle:`                         |
