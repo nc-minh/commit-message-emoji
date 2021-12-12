@@ -50,7 +50,7 @@ git commit -m':tada: Begin a project'
 | Add or update comments in source code     | :bulb: `:bulb:`                           |
 | Write code drunkenly                      | :beers: `:beers:`                         |
 | Add or update text and literals           | :speech_balloon: `:speech_balloon:`       |
-| Perform database related changes          | card_file_box: `card_file_box:`           |
+| Perform database related changes          | :card_file_box: `card_file_box:`           |
 | Add or update logs                        | :loud_sound: `:loud_sound:`               |
 | Remove logs                               | :mute: `:mute:`                           |
 | Add or update contributor(s)              | :busts_in_silhouette: `:busts_in_silhouette:` |
