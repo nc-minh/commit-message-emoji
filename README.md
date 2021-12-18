@@ -18,6 +18,7 @@ git commit -m':tada: Begin a project'
 |:---------------------------|:---------------------------------------------------------|
 | Begin a project            | :tada: `:tada:`                                          |
 | Code fall in love          | :revolving_hearts: `:revolving_hearts:`                  |
+|                                       Test                                            |
 | being chased by a DEADLINE | :sob: `:sob:`                                            |
 | Improve structure / format of the code    | :art: `:art:`                             |
 | Improve performance                       | :zap: `:zap:`                             |
