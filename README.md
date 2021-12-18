@@ -18,7 +18,7 @@ git commit -m':tada: Begin a project'
 |:---------------------------|:---------------------------------------------------------|
 | Begin a project            | :tada: `:tada:`                                          |
 | Code fall in love          | :revolving_hearts: `:revolving_hearts:`                  |
-| :four_leaf_clover: ---TEST---                                                         |
+| :four_leaf_clover: ---CREATE---                                                         |
 | being chased by a DEADLINE | :sob: `:sob:`                                            |
 | Improve structure / format of the code    | :art: `:art:`                             |
 | Improve performance                       | :zap: `:zap:`                             |
@@ -26,12 +26,14 @@ git commit -m':tada: Begin a project'
 | Fix a bug                    | :bug: `:bug:`                                          |
 | Add or update documentation              | :memo: `:memo:`                            |
 | Add or update the UI and style files.                   | :lipstick: `:lipstick:`     |
+| :hourglass: ---UPDATE---                                                         |
 | Tests                      | :rotating_light: `:rotating_light:`                      |
 | Work in progress                      | :construction: `:construction:`               |
 | Remove code, files or folder          | :fire: `:fire:`                               |
 | Refactor code                         | :recycle: `:recycle:`                         |
 | Remove dead code                      | :coffin: `:coffin:`                           |
 | Fix security issues                   | :lock: `:lock:`                               |
+| :hocho: ---DELELE---                                                         |
 | Downgrade dependencies                | :arrow_down: `:arrow_down:`                   |
 | Upgrade dependencies                  | :arrow_up: `:arrow_up:`                       |
 | Add a dependency                      | :heavy_plus_sign: `:heavy_plus_sign:`         |
