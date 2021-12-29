@@ -42,7 +42,9 @@ git commit -m':tada: Begin a project'
 | Add or update a .gitignore file           | :see_no_evil: `:see_no_evil:`             |
 | Add or update image(s)                    | :camera_flash: `:camera_flash:`           |
 | Add or update license                     | :page_facing_up: `:page_facing_up:`       |
+| Add or update readme file                 | :paperclip: `:paperclip:`                 |
 | Add or update animations and transitions  | :dizzy: `:dizzy:`                         |
+| Add or update directory constructure      | :file_folder: `:file_folder:`             |
 | Perform experiments                       | :alembic: `:alembic:`                     |
 | :hourglass: ---UPDATE---                                                         |
 | Work on responsive design                 | :iphone: `:iphone:`                       |
