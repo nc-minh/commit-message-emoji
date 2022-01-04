@@ -49,7 +49,7 @@ git commit -m':tada: Begin a project'
 | Perform experiments                       | :alembic: `:alembic:`                     |
 | :hourglass: ---UPDATE---                                                         |
 | Work on responsive design                 | :iphone: `:iphone:`                       |
-| Perform database related changes          | :card_file_box: `card_file_box:`           |
+| Perform database related changes          | :card_file_box: `:card_file_box:`           |
 | Downgrade dependencies                | :arrow_down: `:arrow_down:`                   |
 | Upgrade dependencies                  | :arrow_up: `:arrow_up:`                       |
 | Fix a bug                    | :bug: `:bug:`                                          |
