@@ -46,6 +46,7 @@ git commit -m':tada: Begin a project'
 | Add or update animations and transitions  | :dizzy: `:dizzy:`                         |
 | Add or update directory constructure      | :file_folder: `:file_folder:`             |
 | Add or update API                         | :feet: `:feet:`                           |
+| Add or update Library                     | :high_brightness: `:high_brightness:`     |
 | Perform experiments                       | :alembic: `:alembic:`                     |
 | :hourglass: ---UPDATE---                                                         |
 | Work on responsive design                 | :iphone: `:iphone:`                       |
